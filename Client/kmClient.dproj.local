@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.259,=T:\KMService\Client\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.604,T:\KMService\Client\Unit1.dfm=T:\KMService\Client\DataModule2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.685,=T:\KMService\Client\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.454,=T:\KMService\Client\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.883,T:\KMService\Client\Unit1.dfm=T:\KMService\Client\DataModule.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.494,=T:\KMService\Client\PasswordEnter.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.897,=T:\KMService\Client\ClientAndSerial.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.667,T:\KMService\Client\Unit1.dfm=T:\KMService\Client\DataModule.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.498,T:\KMService\Client\DataModule.dfm=T:\KMService\Client\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.111,=T:\KMService\Client\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.604,T:\KMService\Client\Unit1.pas=T:\KMService\Client\DataModule2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.883,T:\KMService\Client\Unit1.pas=T:\KMService\Client\DataModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.722,T:\KMService\Client\Client.pas=T:\KMService\Client\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.667,T:\KMService\Client\Unit1.pas=T:\KMService\Client\DataModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.340,=T:\KMService\Client\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.704,=T:\KMService\Client\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.573,=T:\KMService\Client\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.895,=T:\KMService\Client\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.826,=T:\KMService\Client\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.397,=T:\KMService\Client\UserMonitor.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.016,=T:\KMService\Client\Mashine.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,T:\KMService\Client\Main.dfm=C:\Documents and Settings\Virtual PC\My Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.820,=T:\KMService\Client\User.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.697,=T:\KMService\Client\Mashine.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.349,=T:\KMService\Client\kmClient.ridl</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.439,=T:\KMService\Client\kmClient_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.941,T:\KMService\Client\Mashine.pas=T:\KMService\Client\Offers.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.586,=T:\KMService\Client\kmClient.ridl</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.995,T:\KMService\Client\Mashine.dfm=T:\KMService\Client\Offers.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.209,=T:\KMService\Client\BASEENTITY.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.993,=T:\KMService\Client\BASEENTITY.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.744,=C:\Documents and Settings\Virtual PC\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.328,T:\KMService\Client\ClientLib.pas=T:\KMService\Client\Client.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.336,=T:\KMService\Client\Article.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.670,=T:\KMService\Client\MakeOffers.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.498,T:\KMService\Client\DataModule.pas=T:\KMService\Client\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,T:\KMService\Client\Main.pas=C:\Documents and Settings\Virtual PC\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.276,T:\KMService\Client\kmClient.dproj=C:\Documents and Settings\Virtual PC\My Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Article.pas"/>
+    <File Path="Article.dfm"/>
+    <File Path="BASEENTITY.pas"/>
+    <File Path="BASEENTITY.dfm"/>
+    <File Path="Client.pas"/>
+    <File Path="Client.dfm"/>
+    <File Path="ClientAndSerial.pas"/>
+    <File Path="ClientAndSerial.dfm"/>
+    <File Path="ClientLib.pas"/>
+    <File Path="DataModule.pas"/>
+    <File Path="DataModule.dfm"/>
+    <File Path="kmClient.ridl"/>
+    <File Path="kmClient_TLB.pas"/>
+    <File Path="Main.pas"/>
+    <File Path="Main.dfm"/>
+    <File Path="MakeOffers.pas"/>
+    <File Path="MakeOffers.dfm"/>
+    <File Path="Mashine.pas"/>
+    <File Path="Mashine.dfm"/>
+    <File Path="NotifyClient.pas"/>
+    <File Path="NotifyClient.dfm"/>
+    <File Path="Offers.pas"/>
+    <File Path="Offers.dfm"/>
+    <File Path="PasswordEnter.pas"/>
+    <File Path="PasswordEnter.dfm"/>
+    <File Path="User.pas"/>
+    <File Path="User.dfm"/>
+    <File Path="UserMonitor.pas"/>
+    <File Path="UserMonitor.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

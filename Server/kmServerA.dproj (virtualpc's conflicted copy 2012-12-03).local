@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.921,T:\KMService\Main.dfm=C:\Documents and Settings\Virtual PC\My Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.941,=T:\KMService\Server\RemoteDM.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.921,T:\KMService\Main.pas=C:\Documents and Settings\Virtual PC\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.032,T:\KMService\RemoteDM.dfm=C:\Documents and Settings\Virtual PC\My Documents\RAD Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.427,T:\KMService\kmServer_TLB.pas=T:\KMService\Project1_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.255,T:\KMService\kmServer.ridl=C:\Documents and Settings\Virtual PC\My Documents\RAD Studio\Projects\Project1.ridl</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.860,=T:\KMService\Server\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.734,=T:\KMService\Server\UserMonitor.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.032,T:\KMService\RemoteDM.pas=C:\Documents and Settings\Virtual PC\My Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.743,=T:\KMService\Server\UserMonitor.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.017,=C:\Documents and Settings\Virtual PC\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.267,T:\KMService\Server\Unit2.pas=T:\KMService\Client\DataModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.267,T:\KMService\Server\Unit2.dfm=T:\KMService\Client\DataModule.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.385,=T:\KMService\Server\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.395,=C:\Documents and Settings\Virtual PC\My Documents\RAD Studio\Projects\Project1_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.395,T:\KMService\Project1_TLB.pas=C:\Documents and Settings\Virtual PC\My Documents\RAD Studio\Projects\Project1_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.472,=T:\KMService\Server\kmServer.ridl</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,T:\KMService\Server\kmService.dproj=T:\KMService\Server\1231\kmServerA.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.828,T:\KMService\kmService.dproj=C:\Documents and Settings\Virtual PC\My Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.707,=C:\Documents and Settings\Virtual PC\My Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.377,=C:\Documents and Settings\Virtual PC\My Documents\RAD Studio\Projects\Project1.ridl</Transaction>
+  </Transactions>
+</BorlandProject>

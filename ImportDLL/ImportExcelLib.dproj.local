@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2014.04.25 17:50:28.600,=T:\KMService\ImportDLL\Unit1.pas</Transaction>
+    <Transaction>2014.04.25 17:51:22.016,T:\KMService\ImportDLL\ExcelToImportDTUnit.pas=T:\KMService\ImportDLL\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

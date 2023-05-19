@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.205,T:\KMService\Server\kmService_2012.groupproj=C:\Documents and Settings\Virtual PC\My Documents\RAD Studio\Projects\ProjectGroup1.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="T:\KMService\Client\kmClient.dproj"/>
+	</Default.Personality>
+</BorlandProject>
